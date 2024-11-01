@@ -1,4 +1,4 @@
-# Getting Started
+# Phoetic Phase Generator
 Install the dependencies and run the project
 ```
 npm install
